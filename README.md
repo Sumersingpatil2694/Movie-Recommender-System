@@ -1,5 +1,5 @@
 
-# Movie Recommender System
+# Movie Recommender System TMDB Dataset
 
 This project is a movie recommender system that suggests movies based on user preferences. The recommendation system is built using machine learning techniques and leverages The Movie Database (TMDB) API to fetch movie details such as posters.
 
